@@ -1,9 +1,9 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import login from '@/components/login'
-import home from '@/components/home'
-import overview from '@/components/home/overview'
-import friend from '@/components/home/friend'
+import login from '@/pages/login'
+import home from '@/pages/home'
+import overview from '@/pages/home/overview'
+import friend from '@/pages/home/friend'
 
 Vue.use(Router)
 
